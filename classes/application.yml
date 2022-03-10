@@ -1,0 +1,15 @@
+micronaut:
+  application:
+    name: moneybird
+moneybird:
+  user: 225017644014634817
+  token: Eu0RhfXmhTky6DYaxWwy2_Tl9N2TbwsXP72Zm5BhiAU
+netty:
+  default:
+    allocator:
+      max-order: 3
+jackson:
+  property-naming-strategy: SNAKE_CASE
+#  serialization-inclusion: non_null
+  deserialization:
+    failOnUnknownProperties: false
