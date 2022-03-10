@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>nl.rvkit</groupId>
   <artifactId>moneybird</artifactId>
-  <version>0.1</version>
+  <version>1.0.0</version>
   <packaging>${packaging}</packaging>
 
   <parent>
@@ -18,8 +18,6 @@
     <jdk.version>17</jdk.version>
     <release.version>17</release.version>
     <micronaut.version>3.3.4</micronaut.version>
-    <exec.mainClass>nl.rvkit.moneybird.Application</exec.mainClass>
-    <micronaut.runtime>netty</micronaut.runtime>
   </properties>
 
   <repositories>
@@ -39,21 +37,6 @@
       <groupId>io.micronaut</groupId>
       <artifactId>micronaut-validation</artifactId>
       <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.junit.jupiter</groupId>
-      <artifactId>junit-jupiter-api</artifactId>
-      <scope>test</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.junit.jupiter</groupId>
-      <artifactId>junit-jupiter-engine</artifactId>
-      <scope>test</scope>
-    </dependency>
-    <dependency>
-      <groupId>io.micronaut.test</groupId>
-      <artifactId>micronaut-test-junit5</artifactId>
-      <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>io.micronaut</groupId>
@@ -76,24 +59,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>io.micronaut.reactor</groupId>
-      <artifactId>micronaut-reactor</artifactId>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>io.micronaut.reactor</groupId>
-      <artifactId>micronaut-reactor-http-client</artifactId>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>jakarta.annotation</groupId>
       <artifactId>jakarta.annotation-api</artifactId>
       <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>ch.qos.logback</groupId>
-      <artifactId>logback-classic</artifactId>
-      <scope>runtime</scope>
     </dependency>
   </dependencies>
 
