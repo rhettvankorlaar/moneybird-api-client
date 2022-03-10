@@ -1,0 +1,9 @@
+/Users/rhett/Development/moneybird-api-client/src/main/java/nl/rvkit/moneybird/domain/TaxRate.java
+/Users/rhett/Development/moneybird-api-client/src/main/java/nl/rvkit/moneybird/domain/Contact.java
+/Users/rhett/Development/moneybird-api-client/src/main/java/nl/rvkit/moneybird/domain/SaleInvoiceLine.java
+/Users/rhett/Development/moneybird-api-client/src/main/java/nl/rvkit/moneybird/Application.java
+/Users/rhett/Development/moneybird-api-client/src/main/java/nl/rvkit/moneybird/MoneyBirdApiClient.java
+/Users/rhett/Development/moneybird-api-client/src/main/java/nl/rvkit/moneybird/AuthHttpFilter.java
+/Users/rhett/Development/moneybird-api-client/src/main/java/nl/rvkit/moneybird/domain/SaleInvoice.java
+/Users/rhett/Development/moneybird-api-client/src/main/java/nl/rvkit/moneybird/domain/Workflow.java
+/Users/rhett/Development/moneybird-api-client/src/main/java/nl/rvkit/moneybird/MoneyBirdConfiguration.java
