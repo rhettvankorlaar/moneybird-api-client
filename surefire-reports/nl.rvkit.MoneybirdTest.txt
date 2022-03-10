@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: nl.rvkit.MoneybirdTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.519 s - in nl.rvkit.MoneybirdTest

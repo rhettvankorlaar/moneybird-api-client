@@ -2,7 +2,6 @@ package nl.rvkit.moneybird.domain;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import io.micronaut.core.annotation.Introspected;
-import lombok.Data;
 
 @Introspected
 public class Workflow {
