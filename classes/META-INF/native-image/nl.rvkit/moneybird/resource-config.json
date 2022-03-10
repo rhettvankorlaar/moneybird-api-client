@@ -1,7 +1,5 @@
 {
   "resources" : [ {
-    "pattern" : "\\Qlogback.xml\\E"
-  }, {
     "pattern" : "\\QMETA-INF/spring-configuration-metadata.json\\E"
   }, {
     "pattern" : "\\Qapplication.yml\\E"

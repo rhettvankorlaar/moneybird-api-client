@@ -18,7 +18,6 @@ nl/rvkit/moneybird/domain/$TaxRate$Introspection.class
 nl/rvkit/moneybird/$MoneyBirdApiClient$Intercepted$Definition$Reference.class
 META-INF/spring-configuration-metadata.json
 nl/rvkit/moneybird/$MoneyBirdConfiguration$Definition$Reference.class
-nl/rvkit/moneybird/Application.class
 nl/rvkit/moneybird/MoneyBirdApiClient$Intercepted.class
 nl/rvkit/moneybird/domain/SaleInvoiceLine.class
 nl/rvkit/moneybird/$AuthHttpFilter$Definition.class

@@ -1,5 +1,3 @@
-META-INF/services/io.micronaut.inject.BeanDefinitionReference
-nl/rvkit/MoneybirdTest.class
 nl/rvkit/$MoneybirdTest$Definition$Reference.class
-nl/rvkit/$MoneybirdTest$Definition$Exec.class
+META-INF/services/io.micronaut.inject.BeanDefinitionReference
 nl/rvkit/$MoneybirdTest$Definition.class
